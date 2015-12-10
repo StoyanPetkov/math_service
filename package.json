@@ -1,0 +1,22 @@
+{
+  "name": "math_example",
+  "version": "1.0.0",
+  "description": "An example of creating package",
+  "main": "bin/main.js",
+  "bin": {
+    "math_example": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://GitHub.com/StoyanPetkov/math_service.git"
+  },
+  "keywords": [
+    "math",
+    "example"
+  ],
+  "author": "Stoyan Petkov",
+  "license": "BSD-3-Clause"
+}
